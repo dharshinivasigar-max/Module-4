@@ -27,4 +27,4 @@ print("Merged Dictionary:", result)
 Merged Dictionary: {'a': 10, 'b': 200, 'c': 30, 'd': 400}
 
 ## Result
-he Python program successfully merges two dictionaries. As specified in the algorithm, the value for the key 'b' from dict2 (200) overwrote the value from dict1 (20), demonstrating how the unpacking operator handles duplicate keys.
+The Python program successfully merges two dictionaries. As specified in the algorithm, the value for the key 'b' from dict2 (200) overwrote the value from dict1 (20), demonstrating how the unpacking operator handles duplicate keys.
